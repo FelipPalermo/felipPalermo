@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="1200" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif">
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felippalermo" alt="felippalermo" /></a> </p>
+<p>
 
-- 📖 I’m currently learning **Golang and google cloud computing**
+📖 I’m currently learning **Golang and google cloud computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FelipPalermo/felipPalermo](https://github.com/FelipPalermo/felipPalermo)
+💬 Ask me about **python and golang**
 
-- 💬 Ask me about **python and golang**
+📫 How to reach me **felipeptavares06@gmail.com**
 
- - 📫 How to reach me **felipeptavares06@gmail.com**
+⚡ Fun fact **Two years ago i was afraid of coding**
 
-- ⚡ Fun fact **Two years ago i was afraid of coding**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felippalermo&show_icons=true&locale=en&layout=compact" alt="felippalermo" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=felippalermo&show_icons=true&locale=en" alt="felippalermo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felippalermo&" alt="felippalermo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=felippalermo&show_icons=true&locale=en" alt="felippalermo" /></p>
