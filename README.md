@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felippalermo&show_icons=true&locale=en&layout=compact" alt="felippalermo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felippalermo&show_icons=true&locale=en" alt="felippalermo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=felippalermo&show_icons=true&locale=en" alt="felippalermo" /></p>
