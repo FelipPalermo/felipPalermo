@@ -1,12 +1,12 @@
 <h1 align="center">👋 I'm Felipe Palermo</h1>
-<h3 align="center">Software engeneering student</h3>
+<h3 align="center">Software engineering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felippalermo&label=Profile%20views&color=0e75b6&style=flat" alt="felippalermo" /> </p>
 <img align="right" alt="Coding" width="1200" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif">
 
 
 <p>
 
-📖 I’m currently learning **Software engeneering**
+📖 I’m currently learning **Software engineering**
 
 💬 Ask me about **python and MongoDB**
 
