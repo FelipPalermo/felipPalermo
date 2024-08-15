@@ -1,14 +1,14 @@
 <h1 align="center">👋 I'm Felipe Palermo</h1>
-<h3 align="center">Computer science student and software engineering enthusiast</h3>
+<h3 align="center">Software engeneering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felippalermo&label=Profile%20views&color=0e75b6&style=flat" alt="felippalermo" /> </p>
 <img align="right" alt="Coding" width="1200" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif">
 
 
 <p>
 
-📖 I’m currently learning **Golang and google cloud computing**
+📖 I’m currently learning **Software engeneering**
 
-💬 Ask me about **python and golang**
+💬 Ask me about **python and MongoDB**
 
 📫 How to reach me **felipeptavares06@gmail.com**
 
