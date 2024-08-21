@@ -5,7 +5,7 @@
 I’m a **Software Engineering student** with a **background in Python** and interest in Java.  
 I have some knowledge in C++, Rust, and Go.
 
-![Cyberpunk GIF](https://media.giphy.com/media/3o6ZsUpO5LvrXjvT0U/giphy.gif)
+![Cyberpunk GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRhZjhxcDR2ZGQxanlmaHNjNGlwZ2h0dHQ3aDhseG1kOHlyc2hreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AJ6xVtD6uobk8hlnX/giphy.gif)
 
 ## 🌟 About Me
 - **Current Focus:** Expanding my knowledge in **Java** and **Software Engineering**.
@@ -19,7 +19,6 @@ I have some knowledge in C++, Rust, and Go.
 - **English Proficiency:** C1.
 - **You can ask me about** : Pandas, GCP and hardware.  
 - **Fun Fact:** I used to be afraid of coding, but now it's my passion!
-
 
 ## 📚 Connect with Me
 - [Instagram](https://instagram.com/felipepalermo__)
