@@ -1,30 +1,45 @@
-<div align="left">
+# 🚀 Competências & Tecnologias  
 
-# 👋 Hi, I'm Felipe Palermo
+**Engenheiro de Dados**, com experiência em **pipelines de dados**, **modelagem analítica** e **engenharia de software**.  
 
-I’m a **Software Engineering student** with a **background in Python** and interest in Java.  
-I have some knowledge in C++, Rust, and Go.
+---
 
-![Cyberpunk GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRhZjhxcDR2ZGQxanlmaHNjNGlwZ2h0dHQ3aDhseG1kOHlyc2hreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AJ6xVtD6uobk8hlnX/giphy.gif)
+## 🧑‍💻 Linguagens de Programação  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## 🌟 About Me
-- **Current Focus:** Expanding my knowledge in **Java** and **Software Engineering**.
-- **Languages & Tools:**
-- Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ⭐⭐⭐
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ⭐⭐
-- Go ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ⭐⭐
-- C++ ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ⭐⭐🌗
-- Rust ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ⭐
-- Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ⭐
-- **English Proficiency:** C1.
-- **You can ask me about** : Pandas, GCP and hardware.  
-     
-**I am currently enhancing my software engineering expertise through both self-study and academic coursework.    
-I am actively seeking opportunities in the field because I am passionate about developing and maintaining solutions that make a meaningful difference in people's lives,
-whether through innovative applications or impactful services.**   
+---
 
-# 📚 Connect with Me
-- [Instagram](https://instagram.com/felipepalermo__)
-- [whatsapp](http://wa.me/+5519974066636)
+## ☁️ Cloud & Dados  
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-</div>
+---
+
+## 🛠️ Ferramentas & Frameworks  
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧠 Conceitos & Boas Práticas  
+- **Engenharia de Dados**  
+- **Pipelines ETL**  
+- **Modelagem de Sistemas (UML)**  
+- **Engenharia de Software**  
+- **Arquitetura Limpa**  
+
+---
+
+## 🌐 Idiomas  
+- **Inglês:** C1  
+- **Libras:** Básico  
+
+---
